@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\15.Age_ after_ 10_ Years\bin\Debug\15.Age_ after_ 10_ Years.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\15.Age_ after_ 10_ Years\bin\Debug\15.Age_ after_ 10_ Years.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\15.Age_ after_ 10_ Years\obj\Debug\15.Age_ after_ 10_ Years.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\15.Age_ after_ 10_ Years\obj\Debug\15.Age_ after_ 10_ Years.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\15.Age_ after_ 10_ Years\obj\Debug\15.Age_ after_ 10_ Years.pdb

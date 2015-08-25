@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\08.Square_Root\bin\Debug\08.Square_Root.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\08.Square_Root\bin\Debug\08.Square_Root.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\08.Square_Root\obj\Debug\08.Square_Root.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\08.Square_Root\obj\Debug\08.Square_Root.pdb

@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\06.Print_Numbers\bin\Debug\06.Print_Numbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\06.Print_Numbers\bin\Debug\06.Print_Numbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\06.Print_Numbers\obj\Debug\06.Print_Numbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\06.Print_Numbers\obj\Debug\06.Print_Numbers.pdb

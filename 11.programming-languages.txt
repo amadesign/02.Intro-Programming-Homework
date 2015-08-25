@@ -1,0 +1,15 @@
+The five most popular languages for 2015 are:
+1. Java -  is a programming language expressly designed for use in the distributedenvironment of the Internet. It was designed to have the "look and feel" of the C++language, but it is simpler to use than C++ and enforces an object-oriented programmingmodel.
+
+2. C -  is a structured, procedural programming language that has been widely used both for operating systems and applications and that has had a wide following in the academic community. Many versions of UNIX-based operating systems are written in C. C has been standardized as part of the Portable Operating System Interface (POSIX).
+
+
+3. C++ -  is an object-oriented programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language.
+
+4. Python - Python is a high-level programming language designed to be easy to read and simple to implement. It is open source, which means it is free to use, even for commercial applications. Python can run on Mac, Windows, and Unix systems and has also been ported to Java and .NET virtual machines.
+
+
+5. C# - C# (pronounced "C Sharp") is a programming language developed by Microsoft. It was introduced in 2002 with version 1.0 of Microsoft's .NET Framework. Since then, C# has gone through several revisions, corresponding with each .NET update. Today, it is one of the most popular programming languages for creating Windows programs and web applications.
+
+Related to C/C++.  Java and C# are perhaps 75% of C++, and vice versa.  Students who already know C or C++ will have little difficulty learning Java or C#.   Students who learn Java or C# first will have little difficulty picking up C or C++.
+

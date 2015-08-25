@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\07.Print_First_and_Last_Name\bin\Debug\07.Print_First_and_Last_Name.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\07.Print_First_and_Last_Name\bin\Debug\07.Print_First_and_Last_Name.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\07.Print_First_and_Last_Name\obj\Debug\07.Print_First_and_Last_Name.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\07.Print_First_and_Last_Name\obj\Debug\07.Print_First_and_Last_Name.pdb

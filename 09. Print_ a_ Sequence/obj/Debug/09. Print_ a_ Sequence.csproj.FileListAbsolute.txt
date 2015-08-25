@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\09. Print_ a_ Sequence\bin\Debug\_09.Print__a__Sequence.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\09. Print_ a_ Sequence\bin\Debug\_09.Print__a__Sequence.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\09. Print_ a_ Sequence\obj\Debug\_09.Print__a__Sequence.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\09. Print_ a_ Sequence\obj\Debug\_09.Print__a__Sequence.pdb

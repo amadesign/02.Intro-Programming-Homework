@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\05.Print-Your-Name\bin\Debug\05.Print-Your-Name.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\05.Print-Your-Name\bin\Debug\05.Print-Your-Name.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\05.Print-Your-Name\obj\Debug\05.Print-Your-Name.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\05.Print-Your-Name\obj\Debug\05.Print-Your-Name.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\05.Print-Your-Name\obj\Debug\05.Print-Your-Name.pdb

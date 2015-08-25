@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\10.Reformat_ Code\bin\Debug\10.Reformat_ Code.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\10.Reformat_ Code\bin\Debug\10.Reformat_ Code.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\10.Reformat_ Code\obj\Debug\10.Reformat_ Code.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\10.Reformat_ Code\obj\Debug\10.Reformat_ Code.pdb

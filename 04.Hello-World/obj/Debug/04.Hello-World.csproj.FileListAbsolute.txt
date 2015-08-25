@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\04.Hello-World\bin\Debug\04.Hello-World.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\04.Hello-World\bin\Debug\04.Hello-World.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\04.Hello-World\obj\Debug\04.Hello-World.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\04.Hello-World\obj\Debug\04.Hello-World.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\04.Hello-World\obj\Debug\04.Hello-World.pdb

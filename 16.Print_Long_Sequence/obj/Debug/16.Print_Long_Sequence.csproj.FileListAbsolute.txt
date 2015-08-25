@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\16.Print_Long_Sequence\bin\Debug\16.Print_Long_Sequence.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\16.Print_Long_Sequence\bin\Debug\16.Print_Long_Sequence.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\16.Print_Long_Sequence\obj\Debug\16.Print_Long_Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\16.Print_Long_Sequence\obj\Debug\16.Print_Long_Sequence.exe
+C:\Users\Raia\Desktop\Софтуни Курс\Intro-Programming-Homework\16.Print_Long_Sequence\obj\Debug\16.Print_Long_Sequence.pdb
